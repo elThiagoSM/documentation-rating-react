@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/elthiagosm.github.io/documentation-rating-react",
+  "homepage": "https://elthiagosm.github.io/documentation-rating-react",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -50,6 +50,12 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.13"
-  }
+    "tailwindcss": "^3.4.13",
+    "gh-pages": "^6.2.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "Thiago Silveira Machado",
+  "license": "ISC"
 }
