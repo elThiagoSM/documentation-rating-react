@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://elthiagosm.github.io/documentation-rating-react",
+  "homepage": "https://elThiagoSM.github.io/documentation-rating-react",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
